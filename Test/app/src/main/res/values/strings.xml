@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Users</string>
+  <string name="title_activity_users_post">UsersPostActivity</string>
+</resources>
